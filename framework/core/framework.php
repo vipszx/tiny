@@ -20,7 +20,7 @@ class framework
 
     private static function init()
     {
-
+        require_once ROOT_PATH . 'framework' . DS . 'common.php';
     }
 
 
